@@ -1,5 +1,6 @@
 #shrimp {
-    height: 330px;
+    height: auto;
+    width: 330px;
 }
 
 #description {
@@ -7,5 +8,6 @@
 }
 
 #rice {
-    height: 330px;
+    height: auto;
+    width: 330px;
 }
