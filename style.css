@@ -1,13 +1,36 @@
+* {
+    background-color: black;
+    color: white;
+}
+
+.recipe-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+.recipe-list>li {
+    margin: 25px auto 25px auto;
+    text-align: center;
+}
+
 #shrimp {
     height: auto;
     width: 330px;
+    display: block;
+    margin: 50px auto 50px auto;
 }
 
-#description {
+/* #description {
     width: 50%;
-}
+} */
 
 #rice {
     height: auto;
     width: 330px;
+    display: block;
+    margin: 50px auto 50px auto;
+}
+
+h1 {
+    text-align: center;
 }
